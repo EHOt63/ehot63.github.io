@@ -1,12 +1,12 @@
 User-agent:Yandex
 Disallow: /Admin
 Disallow: *?page=
-Sitemap: sitemap.xml
+Sitemap: https://ehot63.github.io/sitemap.xml
 User-agent:googlemap
 Disallow: /Admin
 Disallow: *?page=
-Sitemap: sitemap.xml
+Sitemap: https://ehot63.github.io/sitemap.xml
 User-agent:*
 Disallow: /Admin
 Disallow: *?page=
-Sitemap: sitemap.xml
+Sitemap: https://ehot63.github.io/sitemap.xml
