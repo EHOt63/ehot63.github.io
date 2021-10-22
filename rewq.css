@@ -54,6 +54,14 @@
 	
 }
 
+#in-v-top{
+	opacity: .0;
+}
+
+.in-v-top{
+	opacity: .0;
+}
+
 .image-zoo{
 	height: 80px;
 	width: 80px; 
