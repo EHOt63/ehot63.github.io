@@ -68,8 +68,8 @@
 }
 
 .Videos{
-	height: 60px;
-	width: 96px; 
+	max-height: 100%;
+	max-width: 100%; 
 }
 
 
