@@ -2,7 +2,7 @@
 	background: #f3f2f3;
 	color: #000000;
 	font-family: Trebuchet MS, Arial, Times New Roman; 
-	font-size: 12px;
+	font-size: 20px;
 
 }
 	
@@ -41,7 +41,7 @@
 
 #footer { 
 	background: #838283; 
-	height: 180px;
+	height: 280px;
 	max-width: 100%;  
 }
 
@@ -74,6 +74,6 @@
 
 
 a{
-	font-size: 22px;
+	font-size: 24px;
 
 }
