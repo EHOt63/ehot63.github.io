@@ -15,7 +15,7 @@ HTTP/ RewriteRule ^index\.php$ http://ehot63.github.io/ [R=301,L]
 RewriteCond %{SERVER_PORT} !^443$
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
-ErrorDocument 404 /eror.html
+ErrorDocument 404 /error.html
 
 #редирект на / без слеша
 RewriteCond %{REQUEST_FILENAME} !-f
