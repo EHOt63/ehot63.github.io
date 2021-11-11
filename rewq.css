@@ -85,6 +85,6 @@ a{
 
 .error{
 	text-align: center;
-	
+	display: inline-block;
 	font-size: 22px;
 }
