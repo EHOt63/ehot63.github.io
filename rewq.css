@@ -63,8 +63,8 @@
 }
 
 .image-zoo{
-	height: 10%;
-	width: 10%; 
+	height: auto;
+	width: auto; 
 }
 
 .Videos{
